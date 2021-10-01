@@ -6,7 +6,8 @@ Bu repo C# 101 Patikası Eğitimi kapsamında açtığım yapılan ödev ve proj
 * Uçuş yönetim sistemi **Class (Sınıf) diyagramı**,
 * Online film sitesi **Class (Sınıf) diyagramı**,
 * İnsertion Sort Projesi,
-* Merge Sort Projesi 
+* Merge Sort Projesi,
+* Binary Search Tree 
 
  yer almaktadır.
 
