@@ -25,3 +25,7 @@ Diziyi sıraladıktan sonra 18 sayısı Average Case kapsamına girer.
 | 4 | [2, 3, 4, 5, 6, 9, 8, 15, 7] |
 | 5 | [2, 3, 4, 5, 6, 7, 8, 15, 9] |
 | 6 | [2, 3, 4, 5, 6, 7, 8, 9, 15] |
+
+## Authors
+
+* **Berkan Senger** - [BerkanSE](https://github.com/BerkanSE)
