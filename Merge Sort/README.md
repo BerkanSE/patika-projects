@@ -11,3 +11,8 @@ Veri yapıları ve Algoritmalar eğitiminin ilerlemesinde Merge Sort Projesi yap
 ---
 
 Big - O Notation gösterimi **O(nlogn)**'dir.
+
+## Authors
+
+* **Berkan Senger** - [BerkanSE](https://github.com/BerkanSE)
+
